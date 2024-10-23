@@ -12,6 +12,9 @@
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 
+**## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Butterchilly&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)**
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Butterchilly&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
